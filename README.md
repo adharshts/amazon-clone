@@ -1,2 +1,2 @@
 # amazon-clone
-Amazon website UI clone using HTML,CSS and JavaScript
+Amazon website UI clone using HTML annd CSS 
